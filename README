@@ -1,0 +1,1 @@
+    Some implementation of simple algorithms of computational geometry (e.g: Convex Hull, Kd Tree etc.). There's a modular GUI interface for displaying points, lines, polygons etc. A particular file type is maintained between the main engine & the GUI interface for input & output purpose.
